@@ -1,0 +1,17 @@
+[Unit]
+Description=PiKnock - Wake-on-LAN Web Server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=__USER__
+WorkingDirectory=/opt/piknock
+ExecStart=/usr/bin/python3 /opt/piknock/piknock.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

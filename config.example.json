@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "id": "desktop-pc",
+      "name": "My Desktop PC",
+      "mac": "AA:BB:CC:DD:EE:FF",
+      "broadcast": "192.168.1.255",
+      "description": "Main desktop on LAN"
+    },
+    {
+      "id": "server-direct",
+      "name": "Server (direct ethernet)",
+      "mac": "11:22:33:44:55:66",
+      "broadcast": "10.0.0.255",
+      "description": "Connected via direct Ethernet cable"
+    }
+  ],
+  "server": {
+    "port": 8080,
+    "host": "0.0.0.0"
+  }
+}
