@@ -48,7 +48,7 @@ Scenario 1: LAN (via router)                Scenario 2: Direct Ethernet
 ## Quick Install
 
 ```bash
-git clone https://github.com/synaptica-solution/piknock.git
+git clone https://github.com/SynapticaSolution/piknock.git
 cd piknock
 sudo ./install.sh
 ```

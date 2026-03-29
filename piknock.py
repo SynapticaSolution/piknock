@@ -2,7 +2,7 @@
 """
 PiKnock - Raspberry Pi Wake-on-LAN Server
 A lightweight WOL controller with web UI for Raspberry Pi.
-https://github.com/synaptica-solution/piknock
+https://github.com/SynapticaSolution/piknock
 """
 
 import json
@@ -214,7 +214,7 @@ footer a:hover{text-decoration:underline}
   <button class="btn-add" onclick="showModal()">+ Add Device</button>
 
   <footer>
-    <p>Powered by <a href="https://github.com/synaptica-solution/piknock" target="_blank">PiKnock</a>
+    <p>Powered by <a href="https://github.com/SynapticaSolution/piknock" target="_blank">PiKnock</a>
     &mdash; Made by <a href="https://www.synaptica-solution.com" target="_blank">Synaptica</a></p>
   </footer>
 </div>
