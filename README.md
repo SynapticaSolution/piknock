@@ -163,4 +163,9 @@ MIT - See [LICENSE](LICENSE)
 
 ---
 
-Made by [Synaptica](https://www.synaptica-solution.com)
+Made by [Synaptica Solution](https://synaptica-solution.com) — AI & Process Automation for Italian SMEs
+
+## Related
+
+- [Synaptica Solution](https://synaptica-solution.com) — Custom software and AI automation for Italian SMEs
+- [Process Automation Solutions](https://synaptica-solution.com/soluzioni/automazione-processi/) — Our approach to automation
